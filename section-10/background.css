@@ -1,0 +1,14 @@
+section {
+    width: 80%;
+    height: 800px;
+    /* background-image: url('https://w.wallhaven.cc/full/2y/wallhaven-2yoxxg.png');
+    background-size: cover;
+    background-position: bottom; */
+    margin: 0 auto;
+    background: url('https://w.wallhaven.cc/full/2y/wallhaven-2yoxxg.png') center/40% no-repeat, blue;
+}
+
+h1 {
+    font-size: 100px;
+    color: white;
+}

@@ -1,0 +1,23 @@
+img {
+    display: inline-block;
+    width: 30%;
+    margin: calc(10%/6);
+}
+
+nav {
+   text-transform: uppercase;
+   border-bottom: 2px solid #f1f1f1;
+   width: 30%;
+   margin-left: calc(10%/6);
+   font-size: 1.5em;
+   padding: 1.2em 0;
+   letter-spacing: 2px;
+}
+
+@font-face {
+    font-family: Delicious Handrawn;
+    src: url(custom.ttf);
+}
+body {
+    font-family: 'Delicious Handrawn';
+}
